@@ -1,0 +1,23 @@
+{
+  "name": "node_backend_hack_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joemillervi/node_backend_hack_starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/joemillervi/node_backend_hack_starter",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "knex": "^0.17.6",
+    "pg": "^7.11.0"
+  }
+}
