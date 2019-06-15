@@ -5,7 +5,7 @@ import bodyParser from 'body-parser'
 import { apiGETRoutes, apiPOSTRoutes } from './routes.js'
 
 
-const BUILD_LOCATION = __dirname + '/../../neoquo_frontend/build' 
+const BUILD_LOCATION = __dirname + '/../../somewhere_outside/build' 
 const PORT = 42000
 
 const app = express()
